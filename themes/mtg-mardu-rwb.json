@@ -1,0 +1,108 @@
+{
+  "name": "MTG Mardu Horde",
+  "author": "Jen the Dev MTG Collection",
+  "themes": [
+    {
+      "name": "MTG Mardu Horde",
+      "appearance": "dark",
+      "style": {
+        "background": "#140e0c",
+        "foreground": "#ffd6a5",
+        "text": "#ffd6a5",
+        "text.accent": "#d00000",
+        "text.muted": "#735f52",
+        "editor.background": "#140e0c",
+        "editor.foreground": "#ffd6a5",
+        "editor.active_line.background": "#ffffff0a",
+        "editor.line_number": "#735f52",
+        "editor.active_line_number": "#d00000",
+        "editor.gutter.background": "#140e0c",
+        "surface.background": "#ffffff08",
+        "element.background": "#ffffff10",
+        "element.hover": "#ffffff18",
+        "border": "#735f52",
+        "border.focused": "#d00000",
+        "tab_bar.background": "#140e0c",
+        "tab.active_background": "#ffffff08",
+        "tab.inactive_background": "#140e0c",
+        "panel.background": "#ffffff05",
+        "title_bar.background": "#140e0c",
+        "status_bar.background": "#140e0c",
+        "terminal.background": "#140e0c",
+        "terminal.foreground": "#ffd6a5",
+        "terminal.ansi.black": "#140e0c",
+        "terminal.ansi.red": "#ff5555",
+        "terminal.ansi.green": "#ffba08",
+        "terminal.ansi.yellow": "#d00000",
+        "terminal.ansi.blue": "#dc2f02",
+        "terminal.ansi.magenta": "#ffd6a5",
+        "terminal.ansi.cyan": "#d00000",
+        "terminal.ansi.white": "#ffd6a5",
+        "syntax": {
+          "keyword": {
+            "color": "#dc2f02",
+            "font_weight": 600
+          },
+          "string": {
+            "color": "#ffba08"
+          },
+          "comment": {
+            "color": "#735f52",
+            "font_style": "italic"
+          },
+          "function": {
+            "color": "#ffd6a5",
+            "font_weight": 500
+          },
+          "type": {
+            "color": "#d00000"
+          },
+          "number": {
+            "color": "#d00000"
+          },
+          "boolean": {
+            "color": "#d00000"
+          },
+          "operator": {
+            "color": "#ffd6a5"
+          },
+          "variable": {
+            "color": "#ffd6a5"
+          },
+          "property": {
+            "color": "#ffd6a5"
+          },
+          "constant": {
+            "color": "#dc2f02",
+            "font_weight": 600
+          },
+          "punctuation": {
+            "color": "#735f52"
+          },
+          "tag": {
+            "color": "#d00000"
+          },
+          "attribute": {
+            "color": "#ffd6a5"
+          },
+          "constructor": {
+            "color": "#d00000"
+          },
+          "embedded": {
+            "color": "#ffba08"
+          },
+          "emphasis": {
+            "font_style": "italic"
+          },
+          "strong": {
+            "font_weight": 700
+          },
+          "link": {
+            "color": "#d00000",
+            "underline": true
+          }
+        }
+      }
+    }
+  ]
+}

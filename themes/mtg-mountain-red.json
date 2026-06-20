@@ -1,0 +1,108 @@
+{
+  "name": "MTG Mountain Red",
+  "author": "Jen the Dev MTG Collection",
+  "themes": [
+    {
+      "name": "MTG Mountain Red",
+      "appearance": "dark",
+      "style": {
+        "background": "#160909",
+        "foreground": "#ffb199",
+        "text": "#ffb199",
+        "text.accent": "#d3202a",
+        "text.muted": "#7a4444",
+        "editor.background": "#160909",
+        "editor.foreground": "#ffb199",
+        "editor.active_line.background": "#ffffff0a",
+        "editor.line_number": "#7a4444",
+        "editor.active_line_number": "#d3202a",
+        "editor.gutter.background": "#160909",
+        "surface.background": "#ffffff08",
+        "element.background": "#ffffff10",
+        "element.hover": "#ffffff18",
+        "border": "#7a4444",
+        "border.focused": "#d3202a",
+        "tab_bar.background": "#160909",
+        "tab.active_background": "#ffffff08",
+        "tab.inactive_background": "#160909",
+        "panel.background": "#ffffff05",
+        "title_bar.background": "#160909",
+        "status_bar.background": "#160909",
+        "terminal.background": "#160909",
+        "terminal.foreground": "#ffb199",
+        "terminal.ansi.black": "#160909",
+        "terminal.ansi.red": "#ff5555",
+        "terminal.ansi.green": "#ff8a65",
+        "terminal.ansi.yellow": "#d3202a",
+        "terminal.ansi.blue": "#ff5252",
+        "terminal.ansi.magenta": "#ffb199",
+        "terminal.ansi.cyan": "#d3202a",
+        "terminal.ansi.white": "#ffb199",
+        "syntax": {
+          "keyword": {
+            "color": "#ff5252",
+            "font_weight": 600
+          },
+          "string": {
+            "color": "#ff8a65"
+          },
+          "comment": {
+            "color": "#7a4444",
+            "font_style": "italic"
+          },
+          "function": {
+            "color": "#ffb199",
+            "font_weight": 500
+          },
+          "type": {
+            "color": "#d3202a"
+          },
+          "number": {
+            "color": "#d3202a"
+          },
+          "boolean": {
+            "color": "#d3202a"
+          },
+          "operator": {
+            "color": "#ffb199"
+          },
+          "variable": {
+            "color": "#ffb199"
+          },
+          "property": {
+            "color": "#ffb199"
+          },
+          "constant": {
+            "color": "#ff5252",
+            "font_weight": 600
+          },
+          "punctuation": {
+            "color": "#7a4444"
+          },
+          "tag": {
+            "color": "#d3202a"
+          },
+          "attribute": {
+            "color": "#ffb199"
+          },
+          "constructor": {
+            "color": "#d3202a"
+          },
+          "embedded": {
+            "color": "#ff8a65"
+          },
+          "emphasis": {
+            "font_style": "italic"
+          },
+          "strong": {
+            "font_weight": 700
+          },
+          "link": {
+            "color": "#d3202a",
+            "underline": true
+          }
+        }
+      }
+    }
+  ]
+}

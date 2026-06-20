@@ -1,0 +1,108 @@
+{
+  "name": "MTG Temur Frontier",
+  "author": "Jen the Dev MTG Collection",
+  "themes": [
+    {
+      "name": "MTG Temur Frontier",
+      "appearance": "dark",
+      "style": {
+        "background": "#081018",
+        "foreground": "#9fe7ff",
+        "text": "#9fe7ff",
+        "text.accent": "#219ebc",
+        "text.muted": "#567080",
+        "editor.background": "#081018",
+        "editor.foreground": "#9fe7ff",
+        "editor.active_line.background": "#ffffff0a",
+        "editor.line_number": "#567080",
+        "editor.active_line_number": "#219ebc",
+        "editor.gutter.background": "#081018",
+        "surface.background": "#ffffff08",
+        "element.background": "#ffffff10",
+        "element.hover": "#ffffff18",
+        "border": "#567080",
+        "border.focused": "#219ebc",
+        "tab_bar.background": "#081018",
+        "tab.active_background": "#ffffff08",
+        "tab.inactive_background": "#081018",
+        "panel.background": "#ffffff05",
+        "title_bar.background": "#081018",
+        "status_bar.background": "#081018",
+        "terminal.background": "#081018",
+        "terminal.foreground": "#9fe7ff",
+        "terminal.ansi.black": "#081018",
+        "terminal.ansi.red": "#ff5555",
+        "terminal.ansi.green": "#8ecae6",
+        "terminal.ansi.yellow": "#219ebc",
+        "terminal.ansi.blue": "#023047",
+        "terminal.ansi.magenta": "#9fe7ff",
+        "terminal.ansi.cyan": "#219ebc",
+        "terminal.ansi.white": "#9fe7ff",
+        "syntax": {
+          "keyword": {
+            "color": "#023047",
+            "font_weight": 600
+          },
+          "string": {
+            "color": "#8ecae6"
+          },
+          "comment": {
+            "color": "#567080",
+            "font_style": "italic"
+          },
+          "function": {
+            "color": "#9fe7ff",
+            "font_weight": 500
+          },
+          "type": {
+            "color": "#219ebc"
+          },
+          "number": {
+            "color": "#219ebc"
+          },
+          "boolean": {
+            "color": "#219ebc"
+          },
+          "operator": {
+            "color": "#9fe7ff"
+          },
+          "variable": {
+            "color": "#9fe7ff"
+          },
+          "property": {
+            "color": "#9fe7ff"
+          },
+          "constant": {
+            "color": "#023047",
+            "font_weight": 600
+          },
+          "punctuation": {
+            "color": "#567080"
+          },
+          "tag": {
+            "color": "#219ebc"
+          },
+          "attribute": {
+            "color": "#9fe7ff"
+          },
+          "constructor": {
+            "color": "#219ebc"
+          },
+          "embedded": {
+            "color": "#8ecae6"
+          },
+          "emphasis": {
+            "font_style": "italic"
+          },
+          "strong": {
+            "font_weight": 700
+          },
+          "link": {
+            "color": "#219ebc",
+            "underline": true
+          }
+        }
+      }
+    }
+  ]
+}
