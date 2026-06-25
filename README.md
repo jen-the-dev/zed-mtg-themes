@@ -2,6 +2,12 @@
 
 Magic: The Gathering color identity and guild themes for [Zed](https://zed.dev).
 
+
+## ANZSCO 261312 Skills Snapshot
+- Scripted artifact generation and maintenance for editor theme assets.
+- Workflow automation for repeatable build/install operations.
+- Clear documentation and packaging for practical developer adoption.
+
 ## Themes (25)
 
 - **Mono colors:** Plains White, Island Blue, Swamp Black, Mountain Red, Forest Green
