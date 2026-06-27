@@ -3,10 +3,10 @@
 Magic: The Gathering color identity and guild themes for [Zed](https://zed.dev).
 
 
-## ANZSCO 261312 Skills Snapshot
-- Scripted artifact generation and maintenance for editor theme assets.
-- Workflow automation for repeatable build/install operations.
-- Clear documentation and packaging for practical developer adoption.
+## ANZSCO 261211 + 261312 Skills Snapshot
+- Visual identity theme design and color-system packaging for editor customization (261211).
+- Scripted artifact generation and maintenance for editor theme assets (261312).
+- Workflow automation for repeatable build/install operations (261312).
 
 ## Themes (25)
 
@@ -74,10 +74,10 @@ python3 scripts/generate_mtg_themes.py
 - python3 scripts/generate_mtg_themes.py
 - Manual theme validation in Zed
 
-## ANZSCO 261312 Competency Evidence
-- Scripted content generation.
-- Automation for repeatable artifact builds.
-- Presentation-quality tooling documentation.
+## ANZSCO 261211 + 261312 Competency Evidence
+- **261211 (Multimedia Specialist)**: visual theming design mapped to coherent style systems.
+- **261312 (Developer Programmer)**: scripted content generation and repeatable automation pipeline.
+- Presentation-quality tooling documentation for adoption and maintenance.
 
 ## Commit Convention
 Use Conventional Commits for presentation clarity:
